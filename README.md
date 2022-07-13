@@ -2,7 +2,7 @@
 
 안녕하세요! 
 
-편리한 세상을 위한 불편한 개발자 양태영입니다.
+**"편리한 세상을 위한 불편한 개발자"** `양태영`입니다.
 
 ### 🔍 저를 아는데 더 도움이 될 거에요
 [🏠 블로그 둘러보기](https://yangtaeyoung.github.io/)
@@ -11,7 +11,7 @@
 - [ ] Docker 공부하기
 - [x] Github Actions 공부하기
 - [ ] Github Blog 작성하기
-- [ ] Side Project: MSA기반 plog 서비스 만들기
+- [ ] Side Project: MSA기반 `plog` 서비스 만들기
 
 
 <!--
