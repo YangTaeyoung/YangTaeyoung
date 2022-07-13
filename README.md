@@ -6,10 +6,10 @@
 [🏠 블로그 둘러보기](https://yangtaeyoung.github.io/)
 
 ### 🧑‍💻 최근에는 이런 일을 하고 있습니다.
-- Docker 공부하기
-- Github Actions 공부하기
-- Github Blog 작성하기
-- Side Project: MSA기반 plog 서비스 만들기
+- [ ] Docker 공부하기
+- [x] Github Actions 공부하기
+- [ ] Github Blog 작성하기
+- [ ] Side Project: MSA기반 plog 서비스 만들기
 
 
 <!--
