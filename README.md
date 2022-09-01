@@ -10,7 +10,7 @@
 ### 🧑‍💻 최근에는 이런 일을 하고 있습니다.
 - [x] Docker 공부하기
 - [x] Github Actions 공부하기
-- [ ] Github Blog 작성하기
+- [x] Github Blog 작성하기
 - [ ] Side Project: MSA기반 `plog` 서비스 만들기
 
 
