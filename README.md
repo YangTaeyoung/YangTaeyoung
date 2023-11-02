@@ -11,7 +11,7 @@
 - [x] Docker 공부하기
 - [x] Github Actions 공부하기
 - [x] Github Blog 작성하기
-- [ ] Side Project:  개발자 블로그, `plog` 서비스 만들기
+- [x] Side Project:  개발자 블로그, `plog` 서비스 만들기 
 
 
 <!--
