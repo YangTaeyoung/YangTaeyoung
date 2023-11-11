@@ -13,8 +13,8 @@
 - [x] Github Blog 작성하기
 - [x] Side Project:  개발자 블로그, `plog` 서비스 만들기 
 
-
-[![YangTaeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangTaeyoung)](https://github.com/anuraghazra/github-readme-stats)
+### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangTaeyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **YangTaeyoung/YangTaeyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
