@@ -14,7 +14,7 @@
 - [x] Side Project:  개발자 블로그, `plog` 서비스 만들기 
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangTaeyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangTaeyoung&hide=javascript,html,css,jupyter%20notebook,vue,php,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **YangTaeyoung/YangTaeyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
