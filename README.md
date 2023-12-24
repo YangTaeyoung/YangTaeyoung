@@ -6,13 +6,22 @@
 
 ### 🔍 저를 아는 데 더 도움이 될 거예요
 - [🏠 블로그 둘러보기](https://yangtaeyoung.github.io/)
-- [🛠️ Plog 프로젝트 둘러보기](https://project-555.github.io/)
+
 
 ### 🧑‍💻 최근에는 이런 일을 하고 있습니다.
 - [x] Docker 공부하기
 - [x] Github Actions 공부하기
 - [x] Github Blog 작성하기
 - [x] Side Project:  개발자 블로그, `plog` 서비스 만들기 
+
+### Projects
+- 개발자 블로그 서비스 Plog가 궁금하지 않으신가요? [🐈‍⬛  Github](https://github.com/project-555) [✒️  Blog](https://project-555.github.io/) [❤️  Plog](https://www.plogcareers.net/)
+- 인하대학교 빅데이터 동아리 IBAS의 홈페이지 제작 프로젝트가 궁금한가요? [🐈‍⬛  Github](https://github.com/YangTaeyoung/Inhabas.com) [❤️  IBAS](https://www.inhabas.com)
+- 여러 제품의 모델명을 관리하기 API를 만들었던 경험도 있네요. [🐈‍⬛ Github](https://github.com/MaPDuck)
+
+### Open Sources
+ - Go에서 Lombok에서 만드는 다양한 함수를 느껴보고 싶다면 제가 만든 [gombok](https://github.com/YangTaeyoung/gombok)을 살펴보세요
+ - 메신저로 시크릿을 만드는 것에 지치셨나요? [aws-secret-gen](https://github.com/YangTaeyoung/aws-secret-gen)으로 보다 안전하게 시크릿을 공유해보세요
 
 ### Books 📚
 - 파이썬을 깔끔하게 쓰는 것에 대해 관심이 있다면 제가 쓴 [**"📘 파이썬 틀린 코드"**](https://wikidocs.net/book/8131) 책을 추천해요. 
