@@ -14,6 +14,9 @@
 - [x] Github Blog 작성하기
 - [x] Side Project:  개발자 블로그, `plog` 서비스 만들기 
 
+### Books 📚
+- 파이썬을 깔끔하게 쓰는 것에 대해 관심이 있다면 제가 쓴 [**"📘 파이썬 틀린 코드"**](https://wikidocs.net/book/8131) 책을 추천해요. 
+
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangTaeyoung&hide=javascript,html,css,jupyter%20notebook,vue,php,scss)](https://github.com/anuraghazra/github-readme-stats)
 
