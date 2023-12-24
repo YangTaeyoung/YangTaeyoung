@@ -24,7 +24,7 @@
  - 메신저로 시크릿을 만드는 것에 지치셨나요? [aws-secret-gen](https://github.com/YangTaeyoung/aws-secret-gen)으로 보다 안전하게 시크릿을 공유해보세요
 
 ### Books 📚
-- 파이썬을 깔끔하게 쓰는 것에 대해 관심이 있다면 제가 쓴 [**"📘 파이썬 틀린 코드"**](https://wikidocs.net/book/8131) 책을 추천해요. 
+- 파이썬을 깔끔하게 쓰는 것에 대해 관심이 있다면 제가 쓴 [**📘 파이썬 틀린 코드**](https://wikidocs.net/book/8131) 책을 추천해요. 
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangTaeyoung&hide=javascript,html,css,jupyter%20notebook,vue,php,scss)](https://github.com/anuraghazra/github-readme-stats)
