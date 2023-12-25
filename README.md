@@ -17,7 +17,7 @@
 ### Projects
 - 개발자 블로그 서비스 Plog가 궁금하지 않으신가요? [🐈‍⬛  Github](https://github.com/project-555) [✒️  Blog](https://project-555.github.io/) [❤️  Plog](https://www.plogcareers.net/)
 - 인하대학교 빅데이터 동아리 IBAS의 홈페이지 제작 프로젝트가 궁금한가요? [🐈‍⬛  Github](https://github.com/YangTaeyoung/Inhabas.com) [❤️  IBAS](https://www.inhabas.com)
-- 여러 제품의 모델명을 관리하기 API를 만들었던 경험도 있네요. [🐈‍⬛ Github](https://github.com/MaPDuck)
+- 여러 제품의 모델명을 관리하기 API를 만들었던 경험도 있네요. [🐈‍⬛ Github](https://github.com/YangTaeyoung/MaPDuck-spring)
 
 ### Open Sources
  - Go에서 Lombok에서 만드는 다양한 함수를 느껴보고 싶다면 제가 만든 [gombok](https://github.com/YangTaeyoung/gombok)을 살펴보세요
