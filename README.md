@@ -22,7 +22,7 @@
 ### Open Sources
  - Go에서 Lombok에서 만드는 다양한 함수를 느껴보고 싶다면 제가 만든 [gombok](https://github.com/YangTaeyoung/gombok)을 살펴보세요
  - 메신저로 시크릿을 만드는 것에 지치셨나요? [aws-secret-gen](https://github.com/YangTaeyoung/aws-secret-gen)으로 보다 안전하게 시크릿을 공유해보세요
- - 두 가지 yaml 파일을 타입만 비교하거나, 다양한 방식의 리포트를 생성하고 싶으신가요? [yaml-diff-reporter](https://github.com/YangTaeyoung/aws-secret-gen)으로 보다 쉽게 차이점을 비교해보세요
+ - 두 가지 yaml 파일을 타입만 비교하거나, 다양한 방식의 리포트를 생성하고 싶으신가요? [yaml-diff-reporter](https://github.com/YangTaeyoung/yaml-diff-reporter)으로 보다 쉽게 차이점을 비교해보세요
    - 환경별로 다른 설정 파일을 값을 제외한 상태로 비교할 때 좋습니다. 😊
 
 ### Books 📚
