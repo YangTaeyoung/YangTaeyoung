@@ -7,13 +7,6 @@
 ### 🔍 저를 아는 데 더 도움이 될 거예요
 - [🏠 블로그 둘러보기](https://yangtaeyoung.github.io/)
 
-
-### 🧑‍💻 최근에는 이런 것을 했어요.
-- [x] Docker 공부하기
-- [x] Github Actions 공부하기
-- [x] Github Blog 작성하기
-- [x] Side Project:  개발자 블로그, `plog` 서비스 만들기 
-
 ### Projects
 - 개발자 블로그 서비스 Plog가 궁금하지 않으신가요? [🐈‍⬛  Github](https://github.com/project-555) [✒️  Blog](https://project-555.github.io/) [❤️  Plog](https://www.plogcareers.net/)
 - 인하대학교 빅데이터 동아리 IBAS의 홈페이지 제작 프로젝트가 궁금한가요? [🐈‍⬛  Github](https://github.com/YangTaeyoung/Inhabas.com) [❤️  IBAS](https://www.inhabas.com)
