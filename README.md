@@ -13,6 +13,7 @@
 - 여러 제품의 모델명을 관리하기 API를 만들었던 경험도 있네요. [🐈‍⬛ Github](https://github.com/YangTaeyoung/MaPDuck-spring)
 
 ### Open Sources
+ - 한국어로 랜덤 닉네임을 생성하고 싶으신가요? [konick-go]를 이용해서 Go에서도 다양한 닉네임을 만들어보세요!
  - Hugo 블로그를 다국어를 지원하는 블로그로 만들고 싶으신가요? [hugo-ai-translator](https://github.com/YangTaeyoung/hugo-ai-translator)를 사용해보세요!
  - Go에서 Lombok에서 만드는 다양한 함수를 느껴보고 싶다면 제가 만든 [gombok](https://github.com/YangTaeyoung/gombok)을 살펴보세요
  - 메신저로 시크릿을 공유하는 것에 지치셨나요? [aws-secret-gen](https://github.com/YangTaeyoung/aws-secret-gen)으로 보다 안전하게 시크릿을 공유해보세요
